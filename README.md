@@ -8,7 +8,7 @@
 https://dl.espressif.com/dl/package_esp32_index.json
 
 الان نذهب الى الادوات و نفتح لوحة الاردوينو و نبحث عنesp32 
-<img scr=https://user-images.githubusercontent.com/108413904/180271138-5013c048-8704-481b-abe6-2946bc6d11a8.png >
+<img src=https://user-images.githubusercontent.com/108413904/180271138-5013c048-8704-481b-abe6-2946bc6d11a8.png >
 
 
 تنصيب المكتبة 
