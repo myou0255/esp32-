@@ -17,7 +17,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 نذهب الى ملف ثم امثله و بيسك و نختار blink 
 
-<img scr= https://user-images.githubusercontent.com/108413904/180268732-ff345007-c213-4cbe-8c7f-d8a744441a0f.png >
+<img src=https://user-images.githubusercontent.com/108413904/180268732-ff345007-c213-4cbe-8c7f-d8a744441a0f.png >
 
 نقدر الان نتحكم بزمن ظهور الضوء من خلال delay 
 
